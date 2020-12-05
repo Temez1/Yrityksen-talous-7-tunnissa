@@ -558,6 +558,69 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 
 ### Luento 10 Katetuottojattelu, kustannuslaskennan perusasetelma, kustannuslajilaskenta (aine- ja työkustannukset)
 
+@6:20 tenttikysymys 10.
+
+10 = tällä luennolla, ei tarkempaa kuvausta.
+
+@7:24 Jatkoa katetuottoajatteluun
+
+- Teoreettista ja pelkistettyä mallintamista
+- Kannattavuuskuvio (se missä on se kriittinen piste) liian ideaali
+  - Oikeasti useampia kriittisiä pisteitä
+- Mallinnus voi kuitenkin toimia
+  - Kapealla tarkasteluvälillä
+  - Pieni toiminta-asteen vaihteluväli
+  - Lyhyellä aikavälillä
+- Ei sovellu strategiseen suunnitteluun (Liian pitkä aikaväli)
+- Saattaa soveltua budjettisuunnitteluun, tulossunnittelussa ja hinnoittelussa (Mahdollisesti tarpeeksi lyhyt aikaväli)
+
+@19:50 Toiminnan sopeuttaminen, valmis kuva alla
+
+![Toiminnan sopeuttaminen](./toiminnan-sopeuttaminen.png)
+
+Esimerkki
+
+Potentiaalitekijät = Työkone
+
+Käyttötekijät = Työvoima
+
+Kapasiteetti = Työkoneen maksimaalinen output per tunti
+
+Toiminta-aste = Työkoneen todellinen output per tunti
+
+Kokonaissopeutus = Lisätään tai vähennetään työkoneita, vaikuttaa kapasiteettiin ja kikuihin
+
+Osittaissopeutus = vaikuttaa toiminta-asteeseen ja mukuihin
+
+- Määrän sopeutus = Lisätään tai vähennetään työntekijöitä
+- Ajan sopeutus = Lisätään tai vähennetään työtunteja
+- Tehon sopeutus = Nopeutetaan tai hidastetaan työtahtia (Vrt. riski työtapaturmiin, burnoutteihin yms.)
+
+Oma mp: Huomaa todellisuudessa paljon kompleksisempaa eikä lineaarista. Lisääminen tai vähentäminen ei suoraa aina lisää tai vähennä outputtia. Esimerkiksi organisaation kyky toimia tehokkaasti sen skaalautuessa suuremmaksi, [syvemmmin selitettynä](https://codahale.com/work-is-work/).
+
+@39:57 Kustannuslajilaskenta, valmis kuva alla
+
+![Kustannuslajilaskenta](./kustannuslajilaskenta.png)
+
+@56:35 Ainekustannukset
+
+- Jälkilaskenta
+
+  - Varastoinnista johtuva arvostusongelma
+    - ➡️ Inventointimenettely
+
+- Ennakkolaskenta
+
+  - Määrät ja hinnat perustuvat standardeihin, jälkilaskelmiin tai perstuntumaan
+
+@59:25 tenttikysymys 11.
+
+11 = harkassa
+
+@1:18:27 Työvoimakustannuksen rakenne
+
+![Työvoimakustannuksen rakenne](./työvoimakustannuksen-rakenne.png)
+
 ### Luento 11 Kustannuslajilaskenta, kustannuspaikkalaskenta, suoritekalkyylityypit, kalkyylit vs. liikekirjanpito
 
 ### Luento 12 Tuotantotyypit ja laskentajärjestelmät, jakolaskenta sovelluksineen, budjetointi
