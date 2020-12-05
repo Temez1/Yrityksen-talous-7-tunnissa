@@ -1,16 +1,26 @@
-# Tentti prep
+# Yrityksen talous 7 tunnissa
+
+## Miksi ?
+
+Olet koskaan toivonut, että kunpa kurssin X luennon Y asia voitaisiin esittää yhtä laadukkaasti tiivistettynä kuin esimerkiksi 3Blue1Brown selittää [Bayesin teoreeman](https://youtu.be/HZGCoVF3YvM)?
+
+Tai edes jotain sinne päin?
+
+Monen kurssin luennot eivät ilmaise asiaa erityisen tiiviissä muodossa. Omasta mielestäni olisi siistiä, jos yliopisto voisi tiivistää luennot 20 minuutin youtube videoiksi. Moni voi ajatella toisinkin, mutta lopuille jotka haluavat oppia tehokkaasti tämä on pyrkimys, taloudellisin termein, nostaa opiskelijoiden tuottavuutta.
+
+Mainittakoon, että tämä on vielä toistaiseksi työn alla ja 7 tuntia oli vain heitto, mikä kuulostaa hyvältä. Tiivistelmä ei myöskään ole täysin kattava, vaan keskittyy omasta mielestäni olennaisimpiin asioihin tentti mielessä pitäen.
+
+Mikäli tästä on jotain hyötyä, kannustan muitakin joita kiinnostaa, jakamaan tiivistelmiään kursseista kanssaopiskelijoille. Mikäli tämän materiaalin kehittäminen kiinnostaa, ota yhteyttä teemu.helenius@tuni.fi tai tee pull request suoraan.
 
 ## Syntaksi
 
 @Aika = luentotallenteen aika
 
+(Kuvittele kun luennot löytyisivät YouTubesta, niin aikaleimat olisi vielä kätevämpiä.)
+
 ^ = Potenssi
 
 ## Lyhenteet
-
-Oma mp= Oma mielipide
-
-aka = also known as
 
 EVL = Elinkeinoverolaki
 
@@ -35,6 +45,10 @@ SVOP-rahasto = Sijoitetun vapaan oman pääoman rahasto
 FIFO = First in first out
 
 LIFO = Last in first out
+
+Oma mp= Oma mielipide
+
+aka = also known as
 
 ## Sisällysluettelo
 
@@ -266,7 +280,7 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 
 @1:12:47 Tuloslaskelma ja tase tarkemmin. [Moodle linkki](https://moodle.tuni.fi/pluginfile.php/736555/mod_page/content/27/Tuloslaskelma_ja_tase-2020.pdf)
 
-@1:14:30 Tase pääotsikko tasolla, valmis kuva alla. Huomaa [likvidisyys](https://fi.wikipedia.org/wiki/Likviditeetti) ylhäältä alaspäin!
+@1:14:30 Tase pääotsikko tasolla, valmis kuva alla. Huomaa [likvidisyyden](https://fi.wikipedia.org/wiki/Likviditeetti) lisääntyminen ylhäältä alaspäin!
 
 ![tase-pääotsikko-tasolla](./tase-pääotsikko-tasolla.png)
 
