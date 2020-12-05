@@ -2,13 +2,13 @@
 
 ## Miksi ?
 
-Olet koskaan toivonut, että kunpa kurssin X luennon Y asia voitaisiin esittää yhtä laadukkaasti tiivistettynä kuin esimerkiksi 3Blue1Brown selittää [Bayesin teoreeman](https://youtu.be/HZGCoVF3YvM)?
+Olet koskaan toivonut, että kunpa kurssin X jokaisen luennon asia voitaisiin esittää yhtä laadukkaasti tiivistettynä kuin esimerkiksi 3Blue1Brown selittää [Bayesin teoreeman](https://youtu.be/HZGCoVF3YvM)?
 
 Tai edes jotain sinne päin?
 
 Monen kurssin luennot eivät ilmaise asiaa erityisen tiiviissä muodossa. Omasta mielestäni olisi siistiä, jos yliopisto voisi tiivistää luennot 20 minuutin youtube videoiksi. Moni voi ajatella toisinkin, mutta lopuille jotka haluavat oppia tehokkaasti tämä on pyrkimys, taloudellisin termein, nostaa opiskelijoiden tuottavuutta.
 
-Mainittakoon, että tämä on vielä toistaiseksi työn alla ja 7 tuntia oli vain heitto, mikä kuulostaa hyvältä. Tiivistelmä ei myöskään ole täysin kattava, vaan keskittyy omasta mielestäni olennaisimpiin asioihin tentti mielessä pitäen.
+Mainittakoon, että tämä on vielä toistaiseksi työn alla ja 7 tuntia oli vain heitto, mikä kuulostaa hyvältä (5h luentoihin, 2h harkkoihin). Tiivistelmä ei myöskään ole täysin kattava, vaan keskittyy omasta mielestäni olennaisimpiin asioihin tentti mielessä pitäen.
 
 Mikäli tästä on jotain hyötyä, kannustan muitakin joita kiinnostaa, jakamaan tiivistelmiään kursseista kanssaopiskelijoille. Mikäli tämän materiaalin kehittäminen kiinnostaa, ota yhteyttä teemu.helenius@tuni.fi tai tee pull request suoraan.
 
