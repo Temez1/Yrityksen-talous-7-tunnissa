@@ -2,7 +2,7 @@
 
 ## Miksi ?
 
-Olet koskaan toivonut, että kunpa kurssin X jokaisen luennon asia voitaisiin esittää yhtä laadukkaasti tiivistettynä kuin esimerkiksi 3Blue1Brown selittää [Bayesin teoreeman](https://youtu.be/HZGCoVF3YvM)?
+Oletko koskaan toivonut, että kunpa kurssin X jokaisen luennon asia voitaisiin esittää yhtä laadukkaasti tiivistettynä kuin esimerkiksi 3Blue1Brown selittää [Bayesin teoreeman](https://youtu.be/HZGCoVF3YvM)?
 
 Tai edes jotain sinne päin?
 
