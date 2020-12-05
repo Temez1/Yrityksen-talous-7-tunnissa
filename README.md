@@ -46,6 +46,10 @@ FIFO = First in first out
 
 LIFO = Last in first out
 
+MUKUT = Muuttuvat kustannukset
+
+KIKUT = Kiinteät kustannukset
+
 Oma mp= Oma mielipide
 
 aka = also known as
@@ -503,6 +507,54 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 - Liikevaihdon muutos tilikausien välillä. Kasvua vai ei?
 
 ### Luento 9 Kustannus, laskentatoimen ongelmat, katetuottoajattelu
+
+@01:42 Liikekirjanpito vs johdon laskentatoimi
+
+- Liikekirjanpito keskittyy kuvaamaan raha-prosessia historiaan katsoen mahdollisiman tarkasti ja on lakisääteinen.
+- Johdon laskentatoimi keskittyy reaaliprosessiin ja kuvaamaan yrityksen tulevaisuutta useastakin eri näkökulmasta, mikä palvelee johtamista.
+
+@20:29 tenttikysymys 7.
+
+7 = Kulu, meno, välittömät välilliset yms. Väite näihin liittyen.
+
+#### @20:52 Kustannus = tuotannontekijän käytöstä syntyvä (rahallinen)kustannus
+
+- Kustannus koostuu määrästä ja hinnasta
+- [Vaihtoehtoiskustannus](https://fi.wikipedia.org/wiki/Vaihtoehtoiskustannus) ja yksikkökustannus ajattelutavat.
+- Luokittelutapoja
+  - Mukut / kikut
+  - Välittömät / välilliset
+  - Erilliset / yhteiset
+  - Vaikutettavat / ei-vaikutettavat
+  - Relevantit (päätöksen kannalta oleennaiset) / uponneet
+- Yksiselitteisyys vaatii laskentatilanteen määrittämistä
+(Määritellään luokittelun rajat esim. mikä on "tarpeeksi" kiinteä ja mikä muuttuva kustannus)
+
+@49:00 tenttikysymys 6. laskennan perusongelmat
+
+6 = luennolla seuraavaksi
+
+#### @50:58 Laskentatoimen perusongelmat (Laskelman laatijan tekemät valinnat)
+
+- Liikekirjanpidon puolella laki säätelee, johdon laskentatoimessa jää määriteltäväksi.
+- Laskentatilanteen ymmärtäminen
+  - Laajuus (Mikä kustannus kuuluu laskelmiin, mikä ei?)
+  - Arvostus (Hintakomponentti)
+- Tarkka ja luotettava dokumentointi
+  - Mittaus (Määräkomponentti)
+- Aiheuttamisperiaatteen (= kustannuksen aiheuttaja) kunnioittaminen
+  - Jaksotus (Pitkävaikutteisten tuotannontekijöiden hankintamenojen kohdistaminen laskentakausille)
+  - Kohdistaminen (Miten käsitellään yhteiset kustannukset)
+
+@1:13:53 Tiivistelmä laskentatoimen perusongelmista
+
+@1:16:18 Katetuottoajattelu, valmis kuva alla
+
+![Katetuottoajattelu](./katetuottoajattelu.png)
+
+@1:17:42 tenttikysymys 9.
+
+9 = Harkassa
 
 ### Luento 10 Katetuottojattelu, kustannuslaskennan perusasetelma, kustannuslajilaskenta (aine- ja työkustannukset)
 
