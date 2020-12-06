@@ -77,7 +77,8 @@ Tuottovaatimus = esim. 10%=0.1
 
 4 = [Yrityksen taloustavoitteet](#10530-yrityksen-taloustavoitteet)
 
-5 = Mahdollisesti väite, esim. "Yleisesti käytetty tapa, mikä ei välttämättä ole ihan lainmukainen, on hyvä kirjanpitotapa" Oikein vai väärin? Tai tilinpäätösperiaatteista, joista puhutaan 4. Luennolla.
+5 = Mahdollisesti väite, esim. "Yleisesti käytetty tapa, mikä ei välttämättä ole ihan lainmukainen, on hyvä kirjanpitotapa" Oikein vai väärin? ➡️ Väärin. Lainmukaisuus on kaiken a ja o.
+**Tai** tilinpäätösperiaatteista, joista puhutaan 4. [Luennolla](#Luento-4-Tilinpäätösperiaatteet).
 
 6 = Luennolla 9 [Laskentatoimen perusongelmista](#5058-laskentatoimen-perusongelmat-laskelman-laatijan-tekemät-valinnat)
 
@@ -336,8 +337,6 @@ Kirjanpitovelvollisia
 - Alan **järjestöjen** kannanotot. Ei yksityishenkilöt!
 
 @1:01:25 Tenttikysymys 5.
-
-➡️ Väärin. Lainmukaisuus on kaiken a ja o.
 
 @1:23:00 Tilinpäätöksen oikea ja riittävä kuva
 
