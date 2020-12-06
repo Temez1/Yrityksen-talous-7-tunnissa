@@ -12,55 +12,25 @@ Mainittakoon, että tämä on vielä toistaiseksi työn alla ja 7 tuntia oli vai
 
 Mikäli tästä on jotain hyötyä, kannustan muitakin joita kiinnostaa, jakamaan tiivistelmiään kursseista kanssaopiskelijoille. Mikäli tämän materiaalin kehittäminen kiinnostaa, ota yhteyttä teemu.helenius@tuni.fi tai tee pull request suoraan.
 
-## Syntaksi
+## Yleistä
 
-@Aika = luentotallenteen aika
+Jokaisen luennon alussa on yleensä kertaus viime luennon asioista, sitä ei ole erikseen mainittu tiivistelmässä, mutta suosittelen kuitenkin katsomaan.
 
-(Kuvittele kun luennot löytyisivät YouTubesta, niin aikaleimat olisi vielä kätevämpiä.)
-
-^ = Potenssi
-
-## Lyhenteet
-
-EVL = Elinkeinoverolaki
-
-ORK = Oikeusrekisterikeskus
-
-KILA = Kirjanpitolautakunta
-
-KPL = Kirjanpitolaki
-
-ROM = Rahoitusomaisuus
-
-KOM = Käyttöomaisuus
-
-OPO = Oma pääoma
-
-VPO = Vieras pääoma
-
-LVPO = Lyhyt vieras pääoma
-
-SVOP-rahasto = Sijoitetun vapaan oman pääoman rahasto
-
-FIFO = First in first out
-
-LIFO = Last in first out
-
-MUKUT = Muuttuvat kustannukset
-
-KIKUT = Kiinteät kustannukset
-
-Oma mp= Oma mielipide
-
-aka = also known as
+Kuvia on pyritty välttämään ja asiat on pyritty kirjamaan tekstimuodossa ylös. Kuvia on käytetty kun visuaalisesta hahmottamisesta on ollut hyötyä, tai liitetiedostojen muodossa.
 
 ## Sisällysluettelo
+
+[Tentti](#tentti)
+
+[Syntaksi](#syntaksi)
+
+[Lyhenteet](#lyhenteet)
 
 [Luento 1 Talousprosessi](#luento-1-talousprosessi)
 
 [Luento 2 Taloustavoitteet, kirjanpidon lainsäädännöllinen perusta](#luento-2-taloustavoitteet-kirjanpidon-lainsäädännöllinen-perusta)
 
-[Luento 3 Kirjanpitovelvollisuus, hyvä kirjanpito](#luento-3-kirjanpitovelvollisuus,-hyvä-kirjanpito)
+[Luento 3 Kirjanpitovelvollisuus, hyvä kirjanpito](#luento-3-kirjanpitovelvollisuus-hyvä-kirjanpito)
 
 [Luento 4 Tilinpäätösperiaatteet](#Luento-4-Tilinpäätösperiaatteet)
 
@@ -85,6 +55,139 @@ aka = also known as
 
 [Luento 14 Investointilaskentamenetelmät ja investointilaskelmien lähtöarvot](#Luento-14-Investointilaskentamenetelmät-ja-investointilaskelmien-lähtöarvot)
 
+## Tentti
+
+Tenttikysymyksien rakenne
+
+Harkoissa 16/37 (43%)
+
+Luennoilla = 11/37 (30%)
+
+Ei tietoa = 3/40 (8%)
+
+1 = Diskonttaus kaava = Tulo/((1+tuottovaatimus)^Vuodet)
+
+Tulo = Rahasumma x vuoden päästä
+
+Tuottovaatimus = esim. 10%=0.1
+
+2 = Harkassa
+
+3 = Talousprosessin kaaviokuva, väite esim. "Yrityksen ajatellaan toimivan kolme markkinan keskellä" tai "yrityksen toiminta jaetaan reaali ja rahaprosessiin", oikein vai väärin?
+
+4 = [Yrityksen taloustavoitteet](#10530-yrityksen-taloustavoitteet)
+
+5 = Mahdollisesti väite, esim. "Yleisesti käytetty tapa, mikä ei välttämättä ole ihan lainmukainen, on hyvä kirjanpitotapa" Oikein vai väärin? Tai tilinpäätösperiaatteista, joista puhutaan 4. Luennolla.
+
+6 = Luennolla 9 [Laskentatoimen perusongelmista](#5058-laskentatoimen-perusongelmat-laskelman-laatijan-tekemät-valinnat)
+
+7 = Esim. Onko meno, tulo vai tuotto? Ei täyttä selvyyttä mitä kysymys voisi olla. 17% oikein kertoo, että pitää jotain ymmärtääkin.
+
+8 = Harkassa
+
+9 = Harkassa
+
+10 = [Luento 10 asiaa](#Luento-10-Katetuottojattelu-kustannuslaskennan-perusasetelma-kustannuslajilaskenta-aine--ja-työkustannukset), ei tarkempaa kuvausta.
+
+11 = Harkassa
+
+12 = Harkassa, tiivistelmä poistoista:
+
+- Poistoaika
+- Poiston arvoperusta (Alkuperäinen-, jälleenhankintameno ja menojäännöspoisto)
+- Poiston jaksottaminen
+  - Tasan ➡️ Tasapoisto
+  - Etupainotteinen ➡️ Menojäännöspoisto
+  - Takapainoitteinen ➡️ Annuiteetttipoisto
+
+13 = Katso luento 5 vaihto-omaisuuden [inventointimenettely](#10936-vaihto-omaisuuden-inventointimenettely). Luultavasti jonkinnäköinen väite tai laskuharjoitus. Laskuharjoitus tulee myöhemmin harkassa.
+
+14 = Harkka + [Aineellisten hyödykkeiden jaksottaminen](#aineellisten-hyödykkeiden-jaksottaminen)
+
+15 = ?
+
+16 = Harkassa
+
+17 = Harkassa
+
+18 = "Kustannuspaikkojen muodostamiseen tai ylipäätään kuvioihin liittyvä väite" Katso luento 11 [kustannuspaikkalaskentaan](#2502-kustannuspaikkalaskenta) liittyvät asiat
+
+19 = Harkassa
+
+20 = Lasku ja sanallisia väittämiä. Luennolta 13 [standardikustannuslaskennasta](#standardikustannuslaskenta).
+
+21 = ?
+
+22 = Lasku ja sanallisia vättämiä. Luennolta 14 [investoinneista](#investoinnit).
+
+23 = ?
+
+24 = Tuloslaskelmasta. Mikä (viidestä vaihtoehdosta) esitetään ennen liikevoittoa?
+
+25 = Tuloslaskelmasta. Mikä (viidestä vaihtoehdosta) esitetään liikevoiton jälkeen?
+
+26 = Tuloslaskelmasta. Ei tarkempaa tietoa, "pääotsikko tasolla"
+
+28 = Taseesta. Ei tarkempaa tietoa, "pääotsikko tasolla"
+
+29 = Taseesta. Ei tarkempaa tietoa, "pääotsikko tasolla"
+
+30 = Taseesta. Ei tarkempaa tietoa, "pääotsikko tasolla"
+
+31 = Ei tarkempaa tietoa, monta eri vaihtoehtoa, katso tenttikysymysten moniste.
+
+32 = Harkassa
+
+33 = [Laajempaa ymmärrystä tilinpäätöksestä](#11215-mihin-kiinnittää-huomiota-tilinpäätöksessä)
+
+34 - 40 Harkoissa
+
+## Syntaksi
+
+@Aika = luentotallenteen aika
+
+(Kuvittele kun luennot löytyisivät YouTubesta, niin aikaleimat olisi vielä kätevämpiä.)
+
+^ = Potenssi
+
+## Lyhenteet
+
+EVL = Elinkeinoverolaki
+
+ORK = Oikeusrekisterikeskus
+
+KILA = Kirjanpitolautakunta
+
+KPL = Kirjanpitolaki
+
+KOM = Käyttöomaisuus
+
+VOM = Vaihto-omaisuus
+
+ROM = Rahoitusomaisuus
+
+OPO = Oma pääoma
+
+VPO = Vieras pääoma
+
+LVPO = Lyhyt vieras pääoma
+
+SVOP-rahasto = Sijoitetun vapaan oman pääoman rahasto
+
+FIFO = First in first out
+
+LIFO = Last in first out
+
+MUKUT = Muuttuvat kustannukset
+
+KIKUT = Kiinteät kustannukset
+
+YK-lisät = Yleiskustannuslisät
+
+Oma mp= Oma mielipide
+
+aka = also known as
+
 ### Luento 1 Talousprosessi
 
 Ekat 42 min yleistä kurssista.
@@ -92,8 +195,6 @@ Ekat 42 min yleistä kurssista.
 @42:00 Kurssin aiheet
 
 @44:45 Tenttikysymys 3.
-
-3 = Talousprosessin kaaviokuva, väite esim. "Yrityksen ajatellaan toimivan kolme markkinan keskellä" tai "yrityksen toiminta jaetaan reaali ja rahaprosessiin", oikein vai väärin?
 
 @48:10 Talousprosessin kaaviokuva
 
@@ -109,7 +210,7 @@ Huomioitavaa:
 
 @1:04:20 Pääoman kiertokulkumalli. Miten pääoma kulkee markkinoilla.
 
-@1:05:30 Yrityksen taloustavoitteet
+#### @1:05:30 Yrityksen taloustavoitteet
 
 - Kannattavuus = Tulot > Menot
   - Työkaluja: Tuotekohtainen kustannuslaskenta, budjetointi.
@@ -236,8 +337,6 @@ Kirjanpitovelvollisia
 
 @1:01:25 Tenttikysymys 5.
 
-5 = Mahdollisesti väite, esim. "Yleisesti käytetty tapa, mikä ei välttämättä ole ihan lainmukainen, on hyvä kirjanpitotapa" Oikein vai väärin? Tai tilinpäätösperiaatteista, joista puhutaan 4. Luennolla.
-
 ➡️ Väärin. Lainmukaisuus on kaiken a ja o.
 
 @1:23:00 Tilinpäätöksen oikea ja riittävä kuva
@@ -280,8 +379,6 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 
 @1:02:00 Tenttikysymys 7.
 
-7 = Esim. Onko meno, tulo vai tuotto? Ei täyttä selvyyttä mitä kysymys voisi olla.
-
 @1:12:47 Tuloslaskelma ja tase tarkemmin. [Moodle linkki](https://moodle.tuni.fi/pluginfile.php/736555/mod_page/content/27/Tuloslaskelma_ja_tase-2020.pdf)
 
 @1:14:30 Tase pääotsikko tasolla, valmis kuva alla. Huomaa [likvidisyyden](https://fi.wikipedia.org/wiki/Likviditeetti) lisääntyminen ylhäältä alaspäin!
@@ -289,12 +386,6 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 ![tase-pääotsikko-tasolla](./tase-pääotsikko-tasolla.png)
 
 @1:25:20 Tenttikysymykset 24. 25. 26. 28. 29. ja 30.
-
-24 = Mikä (viidestä vaihtoehdosta) esitetään ennen liikevoittoa?
-
-25 = Mikä (viidestä vaihtoehdosta) esitetään liikevoiton jälkeen?
-
-26, 28, 29 ja 30 = Ei tarkempaa tietoa. "Pääotsikko tasolla"
 
 ### Luento 5 Pysyvien vastaavien ja vaihto-omaisuuden hankintamenojen jaksottaminen
 
@@ -325,9 +416,12 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 - Saadaan aktivoida
 - Oma mp: En osannut tiivistää paremmin kuin wikipedia asian ilmaisi, saa tiivistää.
 
-@27:46 Aineettomat hyödykkeet tiivistelmä, valmis kuva alla.
+@27:46 Aineettomat hyödykkeet tiivistelmä
 
-![Aineettomat hyödykkeet jaksottaminen](./aineettomat-hyödykkeet-jaksottaminen.png)
+- Pääsääntö: Aktivointi mahdollisuus tai saadaan kirjata kuluksi
+- Vastikkeellisesti hankitut oikeudet pitää aktivoida
+- Perustamis- ja tutkimusmenot aina kuluksi
+- Kehittämismenot saa aktivoida
 
 #### Aineellisten hyödykkeiden jaksottaminen
 
@@ -351,9 +445,9 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 - Tilikauden päättyessä jäljellä olevan vaihto-omaisuuden hankintameno aktivoidaan.
 - Jos nykyinen myyntihinta (luovutushinta) tai nykyinen ostohinta (jälleenhankintameno) on pienempi kuin alkuperäinen ostohinta **tilikauden päättyessä**, kirjataan erotus kuluksi. Esim. ostit kirveen 50€. Nykyinen hinta on 40€. Kuluksi kirjataan siis 10€ ja 40€ aktivoidaan.
 
-@1:09:36 Vaihto-omaisuuden inventointimenettely
+#### @1:09:36 Vaihto-omaisuuden inventointimenettely
 
-- Määrä x hinta, missä hinta on alin aiemmista vaihto-ehdoista varovaisuusperiaatetta noudattaen.
+- Määrä x hinta, missä hinta on alin [aiemmista](#10352-vaihto-omaisuuden-jaksottaminen) vaihtoehdoista varovaisuusperiaatetta noudattaen.
 - Oletus käyttöjärjestys = FIFO
 - Muita: LIFO, Keskihinnan menetelmä (Näistä tarkemmin myöhemmässä harkassa)
 
@@ -367,10 +461,6 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 @0:15 [Superopiskelija](http://www.tommivalkonen.com/superopiskelija-3/)
 
 @18:21 Tenttikysymykset 11. ja 13.
-
-11 = Tulee tarkemmin harkassa, laskuharjoitus tyyppinen
-
-13 = Katso edellisen luennon "vaihto-omaisuuden inventointimenettely" kohta. Luultavasti jonkinnäköinen väite tai laskuharjoitus. Laskuharjoitus tulee myöhemmin harkassa.
 
 @25:02 Tenttikysymys 32.
 
@@ -386,10 +476,6 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 
 @53:25 Tenttikysymykset 31. 33. ja 38.
 
-31 = Liittyy aiheeseen, mutta ei suoraa kysymystä. Auttaa ymmärtämään.
-
-33 = Sama homma kuin 31:n kohdalla
-
 38 = Tulee harjoituksessa
 
 @56:18 Vastaiset menot ja menetykset sekä pakollinen varaus
@@ -403,10 +489,6 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
   - Huom. Arvioinnilla voi yrittää pelata, epäselvää mikä on laittoman huono arviointi
 
 @1:16:30 Tenttikysymykset 31. ja 33.
-
-31 = Saattaa liittyä menoihin ja menetyksiin
-
-33 = Sama homma kuin 31:n kohdalla
 
 @1:18:10 Poistoero = verosuunnittelua
 
@@ -426,10 +508,6 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 - Muutokset tuloslaskelmaan, kertymät taseeseen (niinkuin yleensäkin)
 
 @31:40 Tenttikysymykset arvostamisesta 31. 33.
-
-31 = Ei tarkempaa tietoa, mahdollisesti arvostamiseen liittyvä
-
-33 = Sama kuin 31. kohdalla
 
 #### Arvostaminen
 
@@ -492,7 +570,7 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 
 @1:04:25 Valmistus omaan käyttöön. Tulee ilmetä kirjanpidosta.
 
-@1:12:15 Mihin kiinnittää huomiota tilinpäätöksessä
+#### @1:12:15 Mihin kiinnittää huomiota tilinpäätöksessä
 
 - Kannattaa aloittaa taseesta
 - Nyrkkisääntönä mitä enemmän asioita tungettu taseeseen, sen enemmän pitää huolestua ja ottaa selvää miksi niin on tehty.
@@ -532,8 +610,6 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 
 @49:00 tenttikysymys 6. laskennan perusongelmat
 
-6 = luennolla seuraavaksi
-
 #### @50:58 Laskentatoimen perusongelmat (Laskelman laatijan tekemät valinnat)
 
 - Liikekirjanpidon puolella laki säätelee, johdon laskentatoimessa jää määriteltäväksi.
@@ -559,8 +635,6 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 ### Luento 10 Katetuottojattelu, kustannuslaskennan perusasetelma, kustannuslajilaskenta (aine- ja työkustannukset)
 
 @6:20 tenttikysymys 10.
-
-10 = tällä luennolla, ei tarkempaa kuvausta.
 
 @7:24 Jatkoa katetuottoajatteluun
 
@@ -596,7 +670,7 @@ Osittaissopeutus = vaikuttaa toiminta-asteeseen ja mukuihin
 - Ajan sopeutus = Lisätään tai vähennetään työtunteja
 - Tehon sopeutus = Nopeutetaan tai hidastetaan työtahtia (Vrt. riski työtapaturmiin, burnoutteihin yms.)
 
-Oma mp: Huomaa todellisuudessa paljon kompleksisempaa eikä lineaarista. Lisääminen tai vähentäminen ei suoraa aina lisää tai vähennä outputtia. Esimerkiksi organisaation kyky toimia tehokkaasti sen skaalautuessa suuremmaksi, [syvemmmin selitettynä](https://codahale.com/work-is-work/).
+Oma mp: Huomaa todellisuudessa paljon kompleksisempaa eikä lineaarista. Lisääminen tai vähentäminen ei suoraa aina lisää tai vähennä outputtia. Esimerkiksi organisaation kyky toimia tehokkaasti sen skaalautuessa suuremmaksi, [syvemmin selitettynä](https://codahale.com/work-is-work/).
 
 @39:57 Kustannuslajilaskenta, valmis kuva alla
 
@@ -623,6 +697,44 @@ Oma mp: Huomaa todellisuudessa paljon kompleksisempaa eikä lineaarista. Lisää
 
 ### Luento 11 Kustannuslajilaskenta, kustannuspaikkalaskenta, suoritekalkyylityypit, kalkyylit vs. liikekirjanpito
 
+@5:30 Pääomakustannukset (jatkoa kustannuksista)
+
+- Liittyvät tuotannontekijöiden hankkimiseen, hallussapitoon ja vakuuttamiseen
+- KOM ➡️ Poistot ja korot
+- ROM ➡️ Korot
+- Poistot
+  - Poistoaika
+  - Poiston arvoperusta (Alkuperäinen-, jälleenhankintameno ja menojäännöspoisto)
+  - Poiston jaksottaminen
+    - Tasan ➡️ Tasapoisto
+    - Etupainotteinen ➡️ Menojäännöspoisto
+    - Takapainoitteinen ➡️ Annuiteetttipoisto
+- Korot
+  - Sitoutuneet pääoman korot (Mahdollistaa vaihtoehtoiskustannuksen)
+  - Maksetut korot (Maksetaan vain vieraasta pääomasta)
+  - Ei oteta mukaan laskelmiin
+
+@15:05 tenttikysymys 2.
+
+#### @25:02 Kustannuspaikkalaskenta
+
+- Mihin tarvitaan?
+  - Organisaation vastuualueen valvonta
+  - Tuotteen kustannuksen selvittämiseen
+- Miten toteutetaan?
+  - Lasketaan kustannukset ja tuotteet
+- Miten muodostetaan?
+  - Jaetaan vastuut
+  - Sovitaan yhtenäisestä mittayksiköstä (vertailtavuus)
+  - Esim. projekti, tiimi, kone yms.
+- Yleiskustannuslisät (YK-lisät) = Välilliset kustannukset / tuotteen kustannus
+
+@44:25 tenttikysymykset 16. ja 18.
+
+@49:05 Suoritekohtainen laskenta = Mitä kustannuksia otetaan mukaan ja mitä ei
+
+-
+
 ### Luento 12 Tuotantotyypit ja laskentajärjestelmät, jakolaskenta sovelluksineen, budjetointi
 
 ### Luento 13 Standardikustannuslaskenta, investoinnit
@@ -642,10 +754,6 @@ Oma mp: Huomaa todellisuudessa paljon kompleksisempaa eikä lineaarista. Lisää
 @22:28 Standardit ovat tavoitteeksi asetettuja rahamääräisiä ja määrä lukuja. Esim standardihinta 10€ ja määrä 10 ➡️ Yhteensä 100€, mutta tarkestellaan onko jompaa kumpaa rikottu.
 
 @23:05 Tenttikysymykset 19. ja 20.
-
-19 = Harkkatehtävä.
-
-20 = Lasku ja sanallisia väittämiä. Luennolta.
 
 @32:55 Standardityypit
 
@@ -690,9 +798,6 @@ Tulo = Rahasumma x vuoden päästä
 Tuottovaatimus = 10%=0.1 jne.
 
 @1:21:33 Tenttikysymykset 21. ja 22.
-
-21 = ?. Luento 14.
-22 = Lasku ja sanallisia vättämiä. Luento 14.
 
 @1:22:15 Investoinnin vaikutusalueet
 
