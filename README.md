@@ -59,11 +59,11 @@ Kuvia on pyritty välttämään ja asiat on pyritty kirjamaan tekstimuodossa yl�
 
 Tenttikysymyksien rakenne
 
-Harkoissa 16/37 (43%)
+Harkoissa 16/39 (41%)
 
-Luennoilla = 11/37 (30%)
+Luennoilla = 13/39 (33%)
 
-Ei tietoa = 3/40 (8%)
+Ei tietoa = 1/40 (3%)
 
 1 = Diskonttaus kaava = Tulo/((1+tuottovaatimus)^Vuodet)
 
@@ -105,7 +105,7 @@ Tuottovaatimus = esim. 10%=0.1
 
 14 = Harkka + [Aineellisten hyödykkeiden jaksottaminen](#aineellisten-hyödykkeiden-jaksottaminen)
 
-15 = ?
+15 = [Jakolaskennasta](#1919-jakolaskenta)
 
 16 = Harkassa
 
@@ -121,7 +121,7 @@ Tuottovaatimus = esim. 10%=0.1
 
 22 = Lasku ja sanallisia vättämiä. Luennolta 14 [investoinneista](#investoinnit).
 
-23 = ?
+23 = [Budjettijärjestelmästä](#10517-budjettijärjestelmä) tai [Budjetointimenetelmistä](#10931-budjetointimenetelmät)
 
 24 = Tuloslaskelmasta. Mikä (viidestä vaihtoehdosta) esitetään ennen liikevoittoa?
 
@@ -745,6 +745,67 @@ Oma mp: Huomaa todellisuudessa paljon kompleksisempaa eikä lineaarista. Lisää
 - Kalkyyleissa vain kiinteiden kustannusten laskeminen eroaa
 
 ### Luento 12 Tuotantotyypit ja laskentajärjestelmät, jakolaskenta sovelluksineen, budjetointi
+
+@16:42 tenttikysymys 15.
+
+#### @19:19 Jakolaskenta
+
+> "Jakolaskenta (process costing) sopii käytettäväksi, kun yritys valmistaa yhtä tuotelajia (yhtenäistuotanto). Jakolaskennassa kustannukset jaetaan suoritteiden määrällä. Esim. sellutehtaan kokonaiskustannukset voidaan jakaa tuotettujen sellutonnien määrällä. Tällöin saadaan selville sellutonnin kustannus.
+>
+> Lisäyslaskentaa (job order costing) käytetään, kun yritys valmistaa monia erilaisia tuotteita (monituoteyritys). Tällöin suoritteille kohdistetaan suoraan välittömät kustannukset ja välilliset kustannukset erityisen lisän (yleiskustannuslisä) avulla. Yleiskustannuslisän suuruus riippuu siitä, miten suorite aiheuttaa välillisiä kustannuksia. Välilliset kustannukset saattavat esim. riippua konetuntien määrästä, jolloin suoritteelle kohdistetaan yleiskustannuslisänä välillisiä kustannuksia sen tuotantoon käytettyjen konetuntien perusteella."
+>
+> [Blogista](https://www.lily.fi/blogit/chasing-my-future/3-9-suoritekohtainen-kustannuslaskenta/)
+
+- Lisäksi ekvivalenssilaskenta (summataan samankaltaiset tuotteet yhteen)
+
+@44:26 Budjetti
+
+- Toimintasuunnitelma (= sitoudutaan suunnitelmaan)
+- Yleensä rahamääräisiä
+- Tietty aikaväli
+- Tavoitteena optimointi
+- Sidottu yrityksen strategiaan
+- Vastuuhenkilöiden taloudellinen sopimus
+- Koordinoi tavoitteita
+- Tuottaa informaatiota
+
+Oma mp: En ymmärrä alkuunkaan suunnittelua, johon ei sitouduta (toimintasuunnitelman merkitystä yllä). Mitä järkeä luoda suunnitelmia, joita ei hyödynnetä/toteuta/sitouduta? Ei se ole suunnittelua, se on haaveilua. Brainstorming ja muut vastaavat ovat oma asiansa.
+
+Budjetointi (= budjetin tekeminen)
+
+- Vaihtoehtojen etsimistä
+
+@1:04:12 tenttikysymys 23.
+
+#### @1:05:17 Budjettijärjestelmä
+
+- Pääbudjetit
+  - Tulosbudjetti
+    - Liittyy yrityksen kannattavuuteen
+    - suoriteperusteinen
+  - Rahoitusbudjetti
+    - Liittyy yrityksen maksuvalmiuteen
+    - maksuperusteinen
+- Osabudjetit
+  - Ostobudjetti
+  - Myyntibudjetti
+  - Valmistusbudjetti
+
+#### 1:09:31 Budjetointimenetelmät
+
+- Autoritäärinen (ylhäältä alaspäin)
+- Demokraattinen (alhaalta ylöspäin)
+- Edellisten yhdistelmä (iteroiva)
+
+Oma mp: Jos ei armeijaa pyöritetä, niin mielestäni iteroiva tapa on ehdottomasti paras.
+
+1:25:08 Budjettitarkkailu
+
+- Tavoite - toteuma = ero
+- Mikä meni pieleen arvioissa? ➡️ Korjaavat toimenpiteet
+- Aikajänne
+  - Vuositasolla ➡️ keskeiset tavoitteet
+  - Neljännesvuosi- ja kuukausitarkkailu ➡️ tarkastetaan tulos- ja rahoitusbudjettien tilanne
 
 ### Luento 13 Standardikustannuslaskenta, investoinnit
 
