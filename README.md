@@ -732,7 +732,17 @@ Oma mp: Huomaa todellisuudessa paljon kompleksisempaa eikä lineaarista. Lisää
 
 @49:05 Suoritekohtainen laskenta = Mitä kustannuksia otetaan mukaan ja mitä ei
 
--
+- Minimikalkyyli
+- Keskimäääräskalkyyli
+  - Reagoi toiminta-asteen vaihteluun!
+- Normaalikalkyyli
+  - EI reagoi toiminta-asteen vaihteluun
+
+@57:48 tiivistelmä kalkyyleistä, valmis kuva alla.
+
+![Kalkyylit](./kalkyylit.png)
+
+- Kalkyyleissa vain kiinteiden kustannusten laskeminen eroaa
 
 ### Luento 12 Tuotantotyypit ja laskentajärjestelmät, jakolaskenta sovelluksineen, budjetointi
 
