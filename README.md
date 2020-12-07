@@ -59,11 +59,9 @@ Kuvia on pyritty välttämään ja asiat on pyritty kirjamaan tekstimuodossa yl�
 
 Tenttikysymyksien rakenne
 
-Harkoissa 16/39 (41%)
+Harkoissa 15/40 (38%)
 
-Luennoilla = 13/39 (33%)
-
-Ei tietoa = 1/40 (3%)
+Luennoilla = 25/40 (62%)
 
 1 = Diskonttaus kaava = Tulo/((1+tuottovaatimus)^Vuodet)
 
@@ -117,9 +115,9 @@ Tuottovaatimus = esim. 10%=0.1
 
 20 = Lasku ja sanallisia väittämiä. Luennolta 13 [standardikustannuslaskennasta](#standardikustannuslaskenta).
 
-21 = ?
+21 = [Nettonykyarvon laskeminen](#620-nettonykyarvo)
 
-22 = Lasku ja sanallisia vättämiä. Luennolta 14 [investoinneista](#investoinnit).
+22 = [Invenstointien laskentamenetelmät, laskelmien lähtöarvot](#2104-investointilaskelmien-lähtöarvot)
 
 23 = [Budjettijärjestelmästä](#10517-budjettijärjestelmä) tai [Budjetointimenetelmistä](#10931-budjetointimenetelmät)
 
@@ -879,3 +877,36 @@ Tuottovaatimus = 10%=0.1 jne.
 - Imago(Brändi?) ➡️ Investoidaan asioihin, jotka parantavat imagoa (Brändiä?)
 
 ### Luento 14 Investointilaskentamenetelmät ja investointilaskelmien lähtöarvot
+
+@0:34 tenttikysymykset 21. ja 22.
+
+#### @6:20 Nettonykyarvo
+
+![Nettonykyarvo](./nettonykyarvo.png)
+
+Diskontataan jokaisen vuoden nettotuotot nykyhetkeen ja vähennetään investointihinta
+
+Mikäli jokaisen vuoden tuotto on tasaista, tiivistyy muotoon (Huomaa eri taulukosta kerroin).
+
+![Nettonykyarvo tasaisella tuotolla](./nettonykyarvo-jaksollinen.png)
+
+#### @21:04 Investointilaskelmien lähtöarvot
+
+- Investoinnin suuruus (laajuusongelma suunnittelussa)
+- Vuotuiset nettotuotot
+  - Vuotuisten tuottojen ja kustannusten (EI sisällä poistoja tai korkoja!) erotus
+  - Tuotto voi olla säästö
+- Pitoaika
+- Jäännösarvo (investoinnin pitoajan jälkeinen arvo, voi olla myös negatiivinen)
+- Laskentakorkokanta (tuottotavoite)
+  - Usein minimituottovaatimus
+  - Yksi tapa ➡️ Keskimääräiset rahoituskustannukset
+    - Esim. (VPO) 0.7\*5% + (OPO) 0.3\*15% = 8%
+- Käyttöpääoman (VOM+myyntisaamiset-ostovelat) käsittely investointilaskelmissa
+  - Maksuperusteinen- tai kustannusperusteinen tapa
+
+Excel funktiot Nettonykyarvo NPV ja sisäinen korkokanta IRR
+
+Takaisinmaksumenetelmä (= lasketaan milloin investointi on maksanut itsensä takaisin)
+
+@1:20:15 Loppusanat
