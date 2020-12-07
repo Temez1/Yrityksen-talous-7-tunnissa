@@ -22,6 +22,8 @@ Kuvia on pyritty välttämään ja asiat on pyritty kirjamaan tekstimuodossa yl�
 
 [Tentti](#tentti)
 
+[Harkat](#harkat)
+
 [Syntaksi](#syntaksi)
 
 [Lyhenteet](#lyhenteet)
@@ -99,9 +101,9 @@ Tuottovaatimus = esim. 10%=0.1
   - Etupainotteinen ➡️ Menojäännöspoisto
   - Takapainoitteinen ➡️ Annuiteetttipoisto
 
-13 = Katso luento 5 vaihto-omaisuuden [inventointimenettely](#10936-vaihto-omaisuuden-inventointimenettely). Luultavasti jonkinnäköinen väite tai laskuharjoitus. Laskuharjoitus tulee myöhemmin harkassa.
+13 = Katso luento 5 vaihto-omaisuuden [inventointimenettely](#10936-vaihto-omaisuuden-inventointimenettely). Luultavasti jonkinnäköinen väite tai laskuharjoitus. Laskuharjoitus tulee myöhemmin harkassa H2.
 
-14 = Harkka + [Aineellisten hyödykkeiden jaksottaminen](#aineellisten-hyödykkeiden-jaksottaminen)
+14 = H2 + [Aineellisten hyödykkeiden jaksottaminen](#aineellisten-hyödykkeiden-jaksottaminen)
 
 15 = [Jakolaskennasta](#1919-jakolaskenta)
 
@@ -137,13 +139,25 @@ Tuottovaatimus = esim. 10%=0.1
 
 31 = Ei tarkempaa tietoa, monta eri vaihtoehtoa, katso tenttikysymysten moniste.
 
-32 = Harkassa
+32 = H2
 
 33 = [Laajempaa ymmärrystä tilinpäätöksestä](#11215-mihin-kiinnittää-huomiota-tilinpäätöksessä)
 
-34 - 40 Harkoissa
+34 = Harkassa
+
+35-37 = H1
+
+38-40 = Harkoissa
 
 ![Tentin rakenne 2020](./tenttirakenne2020.png)
+
+## Harkat
+
+In progress
+
+Harkat kansiosta löytyy excel pohja ja ratkaisut (tällä hetkellä H1 ja H2). Ratkaisut löytyy myös moodlesta, tavoitteena mahdollisesti selittää auki myöhemmin.
+
+Toistaiseksi ratkaisuiden suurin hyöty on tenttikysymysten korostaminen. ctrl+f toimii myös excelissä (ja tällä sivulla) etsiäkseen tiettyä asiaa.
 
 ## Syntaksi
 
