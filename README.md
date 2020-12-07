@@ -127,6 +127,8 @@ Tuottovaatimus = esim. 10%=0.1
 
 26 = Tuloslaskelmasta. Ei tarkempaa tietoa, "pääotsikko tasolla"
 
+27 = Liikevoitto = Liikevaihto - mukut - kikut - poistot.
+
 28 = Taseesta. Ei tarkempaa tietoa, "pääotsikko tasolla"
 
 29 = Taseesta. Ei tarkempaa tietoa, "pääotsikko tasolla"
@@ -220,7 +222,6 @@ Huomioitavaa:
     - Suhteellisia: ROI aka sijoitetun pääoman tuottoaste, tulee harkassa.
 
   - @1:14:10 Tenttikysymys 27.
-  - 27 = Liikevoitto. Liiketulos = Liikevaihto - mukut - kikut - poistot.
 
 - @1:17:37 Maksuvalmius = Yrityksellä pitää olla käteistä tarpeeksi **joka hetki**
   - Kannattavakin yritys voi ajautua konkurssiin liian pienellä kassalla. Liittyy myös yrityksen luotettavuuteen muiden silmissä.
@@ -463,8 +464,6 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 
 @25:02 Tenttikysymys 32.
 
-32 = Tulee harkassa
-
 @25:50 Tavallinen pilaantuminen/arvonalentuminen huomiodaan inventointimenettelyä käyttäen, ei poikkeuksellisissa arvonalentumisissa! Poikkeuksellinen arvonalentuminen voisi olla esimerkiksi varaston palaminen.
 
 @32:20 Siirtovelat ja -saamiset = Vuokrien, korkojen ja vakuutusmaksujen ajoittamiseen liittyvää säätämistä (Siirretään kohdistamisperusteen mukaisesti "oikealle" tilikaudelle)
@@ -629,8 +628,6 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 
 @1:17:42 tenttikysymys 9.
 
-9 = Harkassa
-
 ### Luento 10 Katetuottojattelu, kustannuslaskennan perusasetelma, kustannuslajilaskenta (aine- ja työkustannukset)
 
 @6:20 tenttikysymys 10.
@@ -687,8 +684,6 @@ Oma mp: Huomaa todellisuudessa paljon kompleksisempaa eikä lineaarista. Lisää
   - Määrät ja hinnat perustuvat standardeihin, jälkilaskelmiin tai perstuntumaan
 
 @59:25 tenttikysymys 11.
-
-11 = harkassa
 
 @1:18:27 Työvoimakustannuksen rakenne
 
