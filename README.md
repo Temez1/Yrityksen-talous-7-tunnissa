@@ -84,7 +84,7 @@ Tuottovaatimus = esim. 10%=0.1
 
 7 = Esim. Onko meno, tulo vai tuotto? Ei täyttä selvyyttä mitä kysymys voisi olla. 17% oikein kertoo, että pitää jotain ymmärtääkin.
 
-8 = Harkassa
+8 = H5
 
 9 = Harkassa
 
@@ -143,7 +143,7 @@ Tuottovaatimus = esim. 10%=0.1
 
 33 = [Laajempaa ymmärrystä tilinpäätöksestä](#11215-mihin-kiinnittää-huomiota-tilinpäätöksessä)
 
-34 = Harkassa
+34 = H5, sijoitetun pääoman tuotto aka ROI + tunnuslukujen viitearvoja.
 
 35-37 = H1
 
