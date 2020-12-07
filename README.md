@@ -139,7 +139,7 @@ Tuottovaatimus = esim. 10%=0.1
 
 31 = Ei tarkempaa tietoa, monta eri vaihtoehtoa, katso tenttikysymysten moniste.
 
-32 = H2
+32 = H3 ja (H2)
 
 33 = [Laajempaa ymmärrystä tilinpäätöksestä](#11215-mihin-kiinnittää-huomiota-tilinpäätöksessä)
 
@@ -147,7 +147,7 @@ Tuottovaatimus = esim. 10%=0.1
 
 35-37 = H1
 
-38-40 = Harkoissa
+38-40 = H4
 
 ![Tentin rakenne 2020](./tenttirakenne2020.png)
 
@@ -155,7 +155,7 @@ Tuottovaatimus = esim. 10%=0.1
 
 In progress
 
-Harkat kansiosta löytyy excel pohja ja ratkaisut (tällä hetkellä H1 ja H2). Ratkaisut löytyy myös moodlesta, tavoitteena mahdollisesti selittää auki myöhemmin.
+Harkat kansiosta löytyy excel pohja ja ratkaisut (tällä hetkellä H1, H2, H3 ja H4). Ratkaisut löytyy myös moodlesta, tavoitteena mahdollisesti selittää auki myöhemmin.
 
 Toistaiseksi ratkaisuiden suurin hyöty on tenttikysymysten korostaminen. ctrl+f toimii myös excelissä (ja tällä sivulla) etsiäkseen tiettyä asiaa.
 
