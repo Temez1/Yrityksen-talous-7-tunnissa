@@ -141,6 +141,8 @@ Tuottovaatimus = esim. 10%=0.1
 
 34 - 40 Harkoissa
 
+![Tentin rakenne 2020](./tenttirakenne2020.png)
+
 ## Syntaksi
 
 @Aika = luentotallenteen aika
