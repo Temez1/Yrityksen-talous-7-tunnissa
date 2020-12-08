@@ -71,7 +71,7 @@ Tulo = Rahasumma x vuoden päästä
 
 Tuottovaatimus = esim. 10%=0.1
 
-2 = Harkassa
+2 = J_H3
 
 3 = Talousprosessin kaaviokuva, väite esim. "Yrityksen ajatellaan toimivan kolme markkinan keskellä" tai "yrityksen toiminta jaetaan reaali ja rahaprosessiin", oikein vai väärin?
 
@@ -86,13 +86,13 @@ Tuottovaatimus = esim. 10%=0.1
 
 8 = H5
 
-9 = Harkassa
+9 = J_H1
 
 10 = [Luento 10 asiaa](#Luento-10-Katetuottojattelu-kustannuslaskennan-perusasetelma-kustannuslajilaskenta-aine--ja-työkustannukset), ei tarkempaa kuvausta.
 
 11 = Harkassa
 
-12 = Harkassa, tiivistelmä poistoista:
+12 =J_H3, tiivistelmä poistoista:
 
 - Poistoaika
 - Poiston arvoperusta (Alkuperäinen-, jälleenhankintameno ja menojäännöspoisto)
@@ -155,9 +155,11 @@ Tuottovaatimus = esim. 10%=0.1
 
 In progress
 
-Harkat kansiosta löytyy excel pohja ja ratkaisut (tällä hetkellä H1, H2, H3 ja H4). Ratkaisut löytyy myös moodlesta, tavoitteena mahdollisesti selittää auki myöhemmin.
+Harkat kansiosta löytyy excel pohja ja ratkaisut (tällä hetkellä H1, H2, H3, H4, H5). Ratkaisut löytyy myös moodlesta, tavoitteena mahdollisesti selittää auki myöhemmin.
 
 Toistaiseksi ratkaisuiden suurin hyöty on tenttikysymysten korostaminen. ctrl+f toimii myös excelissä (ja tällä sivulla) etsiäkseen tiettyä asiaa.
+
+Tentti osiossa on nimetty johdon laskentatoimen harkat J_H1 - J_H5, koska harkat numeroituu uudestaan H1 alkaen. Tarkoituksena erottaa yleisen laskentatoimen H1 johdon laskentatoimen H1:stä.
 
 ## Syntaksi
 
