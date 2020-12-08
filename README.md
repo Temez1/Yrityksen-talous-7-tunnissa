@@ -90,7 +90,7 @@ Tuottovaatimus = esim. 10%=0.1
 
 10 = [Luento 10 asiaa](#Luento-10-Katetuottojattelu-kustannuslaskennan-perusasetelma-kustannuslajilaskenta-aine--ja-työkustannukset), ei tarkempaa kuvausta.
 
-11 = Harkassa
+11 = J_H4
 
 12 =J_H3, tiivistelmä poistoista:
 
@@ -107,13 +107,13 @@ Tuottovaatimus = esim. 10%=0.1
 
 15 = [Jakolaskennasta](#1919-jakolaskenta)
 
-16 = Harkassa
+16 = J_H5
 
-17 = Harkassa
+17 = J_H5
 
 18 = "Kustannuspaikkojen muodostamiseen tai ylipäätään kuvioihin liittyvä väite" Katso luento 11 [kustannuspaikkalaskentaan](#2502-kustannuspaikkalaskenta) liittyvät asiat
 
-19 = Harkassa
+19 = J_H6
 
 20 = Lasku ja sanallisia väittämiä. Luennolta 13 [standardikustannuslaskennasta](#standardikustannuslaskenta).
 
@@ -149,13 +149,13 @@ Tuottovaatimus = esim. 10%=0.1
 
 38-40 = H4
 
-![Tentin rakenne 2020](./tenttirakenne2020.png)
+![Tentin rakenne 2020](./kuvat/tenttirakenne2020.png)
 
 ## Harkat
 
 In progress
 
-Harkat kansiosta löytyy excel pohja ja ratkaisut (tällä hetkellä H1, H2, H3, H4, H5). Ratkaisut löytyy myös moodlesta, tavoitteena mahdollisesti selittää auki myöhemmin.
+Harkat kansiosta löytyy excel pohja ja ratkaisut. Ratkaisut löytyy myös moodlesta, tavoitteena mahdollisesti selittää auki myöhemmin.
 
 Toistaiseksi ratkaisuiden suurin hyöty on tenttikysymysten korostaminen. ctrl+f toimii myös excelissä (ja tällä sivulla) etsiäkseen tiettyä asiaa.
 
@@ -391,7 +391,7 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 
 @57:20 Kirjanpidon yhteys talousprossiin, valmis kuva alla. Punainen ympyrä tarkoittaa tilinpäättäjän vaikutusaluetta, mikä taas vaikuttaa yrityksen tulokseen ja taseeseen.
 
-![kirjanpidon-yhteys-talousprosessiin](./kirjanpidon-yhteys-talousprosessiin.png)
+![kirjanpidon-yhteys-talousprosessiin](./kuvat/kirjanpidon-yhteys-talousprosessiin.png)
 
 @1:02:00 Tenttikysymys 7.
 
@@ -399,7 +399,7 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 
 @1:14:30 Tase pääotsikko tasolla, valmis kuva alla. Huomaa [likvidisyyden](https://fi.wikipedia.org/wiki/Likviditeetti) lisääntyminen ylhäältä alaspäin!
 
-![tase-pääotsikko-tasolla](./tase-pääotsikko-tasolla.png)
+![tase-pääotsikko-tasolla](./kuvat/tase-pääotsikko-tasolla.png)
 
 @1:25:20 Tenttikysymykset 24. 25. 26. 28. 29. ja 30.
 
@@ -546,7 +546,7 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 
 @1:04:25 Poistoajan merkitys yrityksen kannattavuuteen/tulokseen. Maa- ja vesialuella sekä sijoituksilla ei ole poistoaikaa! Alla moodlesta löytyvä taulukko poistoajoista.
 
-![Poistoaikoja](./poistoaikoja.png)
+![Poistoaikoja](./kuvat/poistoaikoja.png)
 
 @1:17:40 Osakepääoma, sen pysyvyys, varojen jakaminen (kertaus) ja arvonalentaminen
 
@@ -640,7 +640,7 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 
 @1:16:18 Katetuottoajattelu, valmis kuva alla
 
-![Katetuottoajattelu](./katetuottoajattelu.png)
+![Katetuottoajattelu](./kuvat/katetuottoajattelu.png)
 
 @1:17:42 tenttikysymys 9.
 
@@ -662,7 +662,7 @@ Oma mp: Mitenköhän varovaisuus toteutuu jenkkilässä ja yrityskaupoissa :D
 
 @19:50 Toiminnan sopeuttaminen, valmis kuva alla
 
-![Toiminnan sopeuttaminen](./toiminnan-sopeuttaminen.png)
+![Toiminnan sopeuttaminen](./kuvat/toiminnan-sopeuttaminen.png)
 
 Esimerkki
 
@@ -686,7 +686,7 @@ Oma mp: Huomaa todellisuudessa paljon kompleksisempaa eikä lineaarista. Lisää
 
 @39:57 Kustannuslajilaskenta, valmis kuva alla
 
-![Kustannuslajilaskenta](./kustannuslajilaskenta.png)
+![Kustannuslajilaskenta](./kuvat/kustannuslajilaskenta.png)
 
 @56:35 Ainekustannukset
 
@@ -703,7 +703,7 @@ Oma mp: Huomaa todellisuudessa paljon kompleksisempaa eikä lineaarista. Lisää
 
 @1:18:27 Työvoimakustannuksen rakenne
 
-![Työvoimakustannuksen rakenne](./työvoimakustannuksen-rakenne.png)
+![Työvoimakustannuksen rakenne](./kuvat/työvoimakustannuksen-rakenne.png)
 
 ### Luento 11 Kustannuslajilaskenta, kustannuspaikkalaskenta, suoritekalkyylityypit, kalkyylit vs. liikekirjanpito
 
@@ -751,7 +751,7 @@ Oma mp: Huomaa todellisuudessa paljon kompleksisempaa eikä lineaarista. Lisää
 
 @57:48 tiivistelmä kalkyyleistä, valmis kuva alla.
 
-![Kalkyylit](./kalkyylit.png)
+![Kalkyylit](./kuvat/kalkyylit.png)
 
 - Kalkyyleissa vain kiinteiden kustannusten laskeminen eroaa
 
@@ -895,13 +895,13 @@ Tuottovaatimus = 10%=0.1 jne.
 
 #### @6:20 Nettonykyarvo
 
-![Nettonykyarvo](./nettonykyarvo.png)
+![Nettonykyarvo](./kuvat/nettonykyarvo.png)
 
 Diskontataan jokaisen vuoden nettotuotot nykyhetkeen ja vähennetään investointihinta
 
 Mikäli jokaisen vuoden tuotto on tasaista, tiivistyy muotoon (Huomaa eri taulukosta kerroin).
 
-![Nettonykyarvo tasaisella tuotolla](./nettonykyarvo-jaksollinen.png)
+![Nettonykyarvo tasaisella tuotolla](./kuvat/nettonykyarvo-jaksollinen.png)
 
 #### @21:04 Investointilaskelmien lähtöarvot
 
