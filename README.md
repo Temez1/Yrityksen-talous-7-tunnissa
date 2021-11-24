@@ -10,7 +10,7 @@ Monen kurssin luennot eivät ilmaise asiaa erityisen tiiviissä muodossa. Omasta
 
 Mainittakoon, että tämä on vielä toistaiseksi työn alla ja 7 tuntia oli vain heitto, mikä kuulostaa hyvältä (5h luentoihin, 2h harkkoihin). Tiivistelmä ei myöskään ole täysin kattava, vaan keskittyy omasta mielestäni olennaisimpiin asioihin tentti mielessä pitäen.
 
-Mikäli tästä on jotain hyötyä, kannustan muitakin joita kiinnostaa, jakamaan tiivistelmiään kursseista kanssaopiskelijoille. Mikäli tämän materiaalin kehittäminen kiinnostaa, ota yhteyttä teemu.helenius@tuni.fi tai tee pull request suoraan.
+Mikäli tästä on jotain hyötyä, kannustan muitakin joita kiinnostaa, jakamaan tiivistelmiään kursseista kanssaopiskelijoille. Mikäli tämän materiaalin kehittäminen kiinnostaa, ota yhteyttä [meikäläiseen](https://www.teemu-helenius.fi/yhteystiedot/) tai tee pull request suoraan.
 
 ## Yleistä
 
